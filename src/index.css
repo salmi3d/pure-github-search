@@ -1,1 +1,14 @@
 @import '~materialize-css/dist/css/materialize.min.css';
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+.flex-1 {
+  display: flex;
+  align-items: stretch;
+}
+.flex-2 {
+  flex: 1;
+}
