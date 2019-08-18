@@ -1,0 +1,6 @@
+{
+  "env": {
+    "REACT_APP_CLIENT_ID": "@pure-github-search.client_id",
+    "SECRET_KEY": "@pure-github-search.client_secret"
+  }
+}

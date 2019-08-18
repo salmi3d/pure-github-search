@@ -1,6 +1,6 @@
-# pure-github-search
+# 🔍 pure-github-search
 
-Simple github search app based on React Hooks
+Simple github search app is built with React Hooks and GitHub APIs
 
 ## Demo
 
